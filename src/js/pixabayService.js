@@ -3,9 +3,9 @@ import Notiflix from 'notiflix';
 
 //=======================================================================
 
-MAIN_URL = 'https://pixabay.com/api/';
-MAIN_KEY = '31303332-4f5dcdea9771597556020029f';
-MAIN_PARAM = '&image_type=photo&orientation=horizontal&safesearch=true';
+const MAIN_URL = 'https://pixabay.com/api/';
+const MAIN_KEY = '31303332-4f5dcdea9771597556020029f';
+const MAIN_PARAM = '&image_type=photo&orientation=horizontal&safesearch=true';
 
 //=======================================================================
 
